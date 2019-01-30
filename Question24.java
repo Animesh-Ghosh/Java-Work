@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /* program to declare class Rectangle with data members
 	length and breadth member functions Input, Output
-	and CalcArea*/
+	and CalcArea */
 
 class Rectangle {
 	float length = 10, breadth = 5;
