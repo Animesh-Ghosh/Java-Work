@@ -17,7 +17,7 @@ class Question26 {
 		float area = semiPerimeter * (semiPerimeter - side1) * (semiPerimeter - side2) * (semiPerimeter - side3);
 		return ((float) (sqrt (area)));
 	}
-	public static void main(String args[]) {
+	public static void main (String args[]) {
 		float x, y, z, area;
 		Scanner input = new Scanner (System.in);
 		System.out.print ("Enter side of square: ");

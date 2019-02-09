@@ -4,7 +4,7 @@ import java.util.Arrays;
 // program to reverse an input array and display it
 
 class Question23 {
-	public static void main(String args[]) {
+	public static void main (String args[]) {
 		Scanner input = new Scanner (System.in);
 		int[] data, reverse_data;
 		int n;

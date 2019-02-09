@@ -3,7 +3,7 @@ import java.util.Scanner;
 // program to input 10 numbers and sort them
 
 class Question21 {
-	public static void main(String[] args) {
+	public static void main (String[] args) {
 		Scanner input = new Scanner (System.in);
 		int[] Arr = new int[10];
 		System.out.println ("Enter numbers in array: ");
