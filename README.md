@@ -53,4 +53,4 @@ Java lab work. Listed below are the questions and their status (complete :white_
 37. Write a program to demonstrate exception propagation. :x:
 38. Write a program to demonstrate rethrowing an exception. :x:
 39. Write a program to demonstrate creation of a user-defined exception. :x:
-40. Write a program declaring a Java class called SavingsAccount with members ``accountNumber`` and ``Balance``. Provide member functions as ``depositAmount ()`` and ``withdrawAmount ()``. If user tries to withdraw an amount greater than their balance then throw a user-defined exception.
+40. Write a program declaring a Java class called SavingsAccount with members ``accountNumber`` and ``Balance``. Provide member functions as ``depositAmount ()`` and ``withdrawAmount ()``. If user tries to withdraw an amount greater than their balance then throw a user-defined exception. :x:
