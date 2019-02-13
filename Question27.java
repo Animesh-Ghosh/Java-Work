@@ -27,7 +27,7 @@ public class Question27 {
       s2.display ();
       System.out.print ("Enter new college: ");
       String newCollege = input.next ();
-      s1.changeCollege (newCollege);
+      Student.changeCollege (newCollege);
       System.out.println ("After changing college: ");
       s1.display ();
       s2.display ();
