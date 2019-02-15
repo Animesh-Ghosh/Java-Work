@@ -54,7 +54,7 @@ Java lab work. Listed below are the questions and their status (complete :white_
 38. Write a program to demonstrate multiple catch statements. :x:
 39. Write a program to demonstrate nested try-catch block. :x:
 40. Write a program to demonstrate the concept of wrapper class. :white_check_mark:
-41. Write a program to demonstrate the use of ``throw`` keyword. :x:
+41. Write a program to demonstrate the use of ``throw`` keyword. :white_check_mark:
 42. Write a program to demonstrate exception propagation. :x:
 43. Write a program to demonstrate rethrowing an exception. :x:
 44. Write a program to demonstrate creation of a user-defined exception. :x:
