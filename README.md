@@ -47,8 +47,8 @@ Java lab work. Listed below are the questions and their status (complete :white_
 31. Write a program to use use super to invoke base class overridden data member and member function. :white_check_mark:
 32. Write a program to demonstrate run-time polymorphism. :white_check_mark:
 33. Write a program to demonstrate the concept of aggregation. :white_check_mark:
-34. Write a program to demonstrate the concept of abstract class with constructor and ``final`` methods. :x:
-35. Write a program to demonstrate the concept of interface when two interfaces have unique methods and when they have same named methods. :x:
+34. Write a program to demonstrate the concept of abstract class with constructor and ``final`` method. :white_check_mark:
+35. Write a program to demonstrate the concept of interface when two interfaces have unique methods and same members. :white_check_mark:
 36. Write a program to demonstrate checked exception during file handling. :x:
 37. Write a program to demonstrate unchecked exception. :x:
 38. Write a program to demonstrate multiple catch statements. :x:
