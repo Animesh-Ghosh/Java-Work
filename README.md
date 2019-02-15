@@ -49,16 +49,16 @@ Java lab work. Listed below are the questions and their status (complete :white_
 33. Write a program to demonstrate the concept of aggregation. :white_check_mark:
 34. Write a program to demonstrate the concept of abstract class with constructor and ``final`` method. :white_check_mark:
 35. Write a program to demonstrate the concept of interface when two interfaces have unique methods and same members. :white_check_mark:
-36. Write a program to demonstrate checked exception during file handling. :x:
-37. Write a program to demonstrate unchecked exception. :x:
-38. Write a program to demonstrate multiple catch statements. :x:
-39. Write a program to demonstrate nested try-catch block. :x:
+36. Write a program to demonstrate checked exception during file handling. :white_check_mark:
+37. Write a program to demonstrate unchecked exception. :white_check_mark:
+38. Write a program to demonstrate multiple catch statements. :white_check_mark:
+39. Write a program to demonstrate nested try-catch block. :white_check_mark:
 40. Write a program to demonstrate the concept of wrapper class. :white_check_mark:
 41. Write a program to demonstrate the use of ``throw`` keyword. :white_check_mark:
-42. Write a program to demonstrate exception propagation. :x:
-43. Write a program to demonstrate rethrowing an exception. :x:
-44. Write a program to demonstrate creation of a user-defined exception. :x:
-45. Write a program declaring a Java class called SavingsAccount with members ``accountNumber`` and ``Balance``. Provide member functions as ``depositAmount ()`` and ``withdrawAmount ()``. If user tries to withdraw an amount greater than their balance then throw a user-defined exception. :x:
+42. Write a program to demonstrate exception propagation. :white_check_mark:
+43. Write a program to demonstrate rethrowing an exception. :white_check_mark:
+44. Write a program to demonstrate creation of a user-defined exception. :white_check_mark:
+45. Write a program declaring a Java class called SavingsAccount with members ``accountNumber`` and ``Balance``. Provide member functions as ``depositAmount ()`` and ``withdrawAmount ()``. If user tries to withdraw an amount greater than their balance then throw a user-defined exception. :white_check_mark:
 46. Write a program to demonstrate a single-threaded process. :x:
 47. Write a program to demonstrate creation of a single child thread. :x:
 48. Write a program to demonstrate creation of a multiple child threads. :x:

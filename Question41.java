@@ -1,18 +1,16 @@
-/* Demonstrate a program to show use of throw keyword */
+// program to demonstrate use of throw keyword 
 
-class demo{
-	static void validate(int test){
-		if(test < 25)
+class Question41 {
+	static void validate (int test) {
+		if (test < 25)
 			// throw an exception
-			throw new ArithmeticException ("\nException Caught !");
+			throw new ArithmeticException ("Exception Caught!");
 		else
-			System.out.println("Value of test : " + test);
+			System.out.println ("Value of test: " + test);
 	}
-}
-class test_throw{
-	public static void main(String[] args) {
-		demo.validate(30);
-		demo.validate(45);
-		demo.validate(12);	//this will generate exception 
+	public static void main(String args[]) {
+		validate(30);
+		validate(45);
+		validate(12);	//this will generate exception 
 	}
 }
