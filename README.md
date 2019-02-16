@@ -48,9 +48,17 @@ Java lab work. Listed below are the questions and their status (complete :white_
 32. Write a program to demonstrate run-time polymorphism. :white_check_mark:
 33. Write a program to demonstrate the concept of aggregation. :white_check_mark:
 34. Write a program to demonstrate the concept of abstract class with constructor and ``final`` methods. :x:
-35. Write a program to demonstrate the concept of wrapper class. :x:
-36. Write a program to demonstrate the use of ``throw`` keyword. :x:
-37. Write a program to demonstrate exception propagation. :x:
-38. Write a program to demonstrate rethrowing an exception. :x:
-39. Write a program to demonstrate creation of a user-defined exception. :x:
-40. Write a program declaring a Java class called SavingsAccount with members ``accountNumber`` and ``Balance``. Provide member functions as ``depositAmount ()`` and ``withdrawAmount ()``. If user tries to withdraw an amount greater than their balance then throw a user-defined exception. :x:
+35. Write a program to demonstrate the concept of interface when two interfaces have unique methods and when they have same named methods. :x:
+36. Write a program to demonstrate checked exception during file handling. :x:
+37. Write a program to demonstrate unchecked exception. :x:
+38. Write a program to demonstrate multiple catch statements. :x:
+39. Write a program to demonstrate nested try-catch block. :x:
+40. Write a program to demonstrate the concept of wrapper class. :x:
+41. Write a program to demonstrate the use of ``throw`` keyword. :x:
+42. Write a program to demonstrate exception propagation. :x:
+43. Write a program to demonstrate rethrowing an exception. :x:
+44. Write a program to demonstrate creation of a user-defined exception. :x:
+45. Write a program declaring a Java class called SavingsAccount with members ``accountNumber`` and ``Balance``. Provide member functions as ``depositAmount ()`` and ``withdrawAmount ()``. If user tries to withdraw an amount greater than their balance then throw a user-defined exception. :x:
+46. Write a program to demonstrate a single-threaded process. :x:
+47. Write a program to demonstrate creation of a single child thread. :x:
+48. Write a program to demonstrate creation of a multiple child threads. :x:
