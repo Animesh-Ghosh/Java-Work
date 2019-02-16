@@ -10,6 +10,7 @@ class Derived {
 	Base obj;
 	void func () {
 		obj = new Base ();
+		System.out.println ("Using Base class object inside Derived class.");
 		obj.func ();
 		System.out.println ("Derived.");
 	}
