@@ -62,4 +62,4 @@ Java lab work. Listed below are the questions and their status (complete :white_
 46. Write a program to demonstrate a single-threaded process. :x:
 47. Write a program to demonstrate creation of a single child thread. :x:
 48. Write a program to demonstrate creation of multiple child threads. :x:
-49. Create two class that implement the Runnable interface. One of the class should print odd numbers between 0 and 10 and the other class should print even numbers between 0 and 10. Make use of ``sleep ()``. :x:
+49. Write a program creating two class that implement the Runnable interface. One of the class should print odd numbers between 0 and 10 and the other class should print even numbers between 0 and 10. Make use of ``sleep ()``. :x:
