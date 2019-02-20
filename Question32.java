@@ -15,7 +15,7 @@ class Derived extends Base {
 }
 
 class Question32 {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		Base objB = new Base ();
 		Derived objD = new Derived ();
 		Base ref;

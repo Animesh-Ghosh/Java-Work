@@ -16,7 +16,7 @@ class Question44 {
 		if (a > 10) throw new MyException (a);
 		else System.out.println ("No exception thrown.");
 	}
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		try {
 			compute (1);
 			compute (25);

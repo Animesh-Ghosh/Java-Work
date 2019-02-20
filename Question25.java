@@ -7,7 +7,7 @@ class GarbageC {
 }
 
 class Question25 {
-	public static void main (String args[]) {
+	public static void main (String[] args) {
 		GarbageC obj = new GarbageC ();
 		String string = new String ("ABC");
 		System.gc ();

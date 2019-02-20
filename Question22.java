@@ -3,7 +3,7 @@ import java.util.Scanner;
 // program to input elements in array and search for presence of an element
 
 class Question22 {
-	public static void main (String args[]) {
+	public static void main (String[] args) {
 		Scanner input = new Scanner (System.in);
 		int[] Arr;
 		int n, element;

@@ -3,7 +3,7 @@ import java.util.Scanner;
 // program to compute area and perimeter of rectangle
 
 class Question1 {
-	public static void main (String args[]) {
+	public static void main (String[] args) {
 		float length, breadth, area, peri;
 		Scanner input = new Scanner (System.in);
 		System.out.print ("Enter length of rectangle: ");

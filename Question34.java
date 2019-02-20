@@ -19,7 +19,7 @@ class Derived extends Base {
 }
 
 class Question34 {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		Base objB = new Derived ();
 		Derived objD = new Derived ();
 		System.out.println ("Using Base class' reference to use Base class' method.");

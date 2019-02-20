@@ -25,7 +25,7 @@ class D extends A {
 }
 
 class Question29 {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		System.out.println ("Single-level inheritance: ");
 		B objB = new B ();
 		objB.outA ();

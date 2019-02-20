@@ -1,7 +1,7 @@
 // program to print times table of 5
 
 class Question5 {
-	public static void main (String args[]) {
+	public static void main (String[] args) {
 		int mul;
 		System.out.println ("Times table of 5: ");
 		for (int i = 1; i <= 10; i++) {

@@ -3,7 +3,7 @@ import java.util.Scanner;
 // program to print a given pattern based on input
 
 class Question10 {
-	public static void main (String args[]) {
+	public static void main (String[] args) {
 		Scanner inp = new Scanner (System.in);
 		System.out.print ("Enter an odd number: ");
 		int n = inp.nextInt ();

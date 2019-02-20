@@ -3,7 +3,7 @@ import java.io.*;
 // program to demonstrate checked exception during file handling
 
 class Question36 {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		FileInputStream fin;
 		try {
 			fin = new FileInputStream ("Files/Test1.txt");

@@ -23,7 +23,7 @@ class Derived implements Base1, Base2 {
 }
 
 class Question35 {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		Derived obj = new Derived ();
 		obj.disp1 ();
 		obj.disp2 ();

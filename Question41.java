@@ -8,7 +8,7 @@ class Question41 {
 		else
 			System.out.println ("Value of test: " + test);
 	}
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		validate(30);
 		validate(45);
 		validate(12);	//this will generate exception 

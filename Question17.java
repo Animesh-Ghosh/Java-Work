@@ -3,7 +3,7 @@ import java.util.Scanner;
 // program to check if input number is palindrome
 
 class Question17 {
-	public static void main (String args[]) {
+	public static void main (String[] args) {
 		Scanner input = new Scanner (System.in);
 		int num, x, digit, rev = 0;
 		System.out.print ("Enter a number: ");
