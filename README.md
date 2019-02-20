@@ -62,4 +62,12 @@ Java lab work. Listed below are the questions and their status (complete :white_
 46. Write a program to demonstrate a single-threaded process. :x:
 47. Write a program to demonstrate creation of a single child thread. :x:
 48. Write a program to demonstrate creation of multiple child threads. :x:
-49. Write a program creating two class that implement the Runnable interface. One of the class should print odd numbers between 0 and 10 and the other class should print even numbers between 0 and 10. Make use of ``sleep ()``. :x:
+49. Write a program to demonstrate use of ``getId ()`` function. :x:
+50. Write a program creating 2 threads using Runnable interface. Print your name in ``run ()`` method of first class and "Hello Java" in ``run ()`` method of second thread. :x:
+51. Write a program to demonstrate use of ``super ()`` to give appropriate name to a thread. :x:
+52. Write a program to demonstrate use of ``isAlive ()`` method. :x:
+53. Write a program to demonstrate use of ``isAlive (n)`` method. :x:
+54. Write a program to demonstrate use of ``join ()`` method. :x:
+55. Write a program to demonstrate use of ``setPriority ()`` method to set priority of a thread to 1, 10 and normal. :x:
+56. Write a program to demonstrate making a thread as Daemon. :x:
+57. Write a program to demonstrate use of synchronization. :x:
