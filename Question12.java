@@ -3,7 +3,7 @@ import java.util.Scanner;
 // program to enter marks of five subjects and compute percentage
 
 class Question12 {
-	public static void main (String args[]) {
+	public static void main (String[] args) {
 		Scanner input = new Scanner (System.in);
 		float subject1, subject2, subject3, subject4, subject5, percentage;
 		System.out.println ("Enter marks of five subjects: ");
