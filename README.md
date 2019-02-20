@@ -59,7 +59,7 @@ Java lab work. Listed below are the questions and their status (complete :white_
 43. Write a program to demonstrate rethrowing an exception. :white_check_mark:
 44. Write a program to demonstrate creation of a user-defined exception. :white_check_mark:
 45. Write a program declaring a Java class called SavingsAccount with members ``accountNumber`` and ``Balance``. Provide member functions as ``depositAmount ()`` and ``withdrawAmount ()``. If user tries to withdraw an amount greater than their balance then throw a user-defined exception. :white_check_mark:
-46. Write a program to demonstrate a single-threaded process. :x:
+46. Write a program to demonstrate a single-threaded process. :white_check_mark:
 47. Write a program to demonstrate creation of a single child thread. :x:
-48. Write a program to demonstrate creation of multiple child threads. :x:
+48. Write a program to demonstrate creation of multiple child threads. :white_check_mark:
 49. Write a program creating two class that implement the Runnable interface. One of the class should print odd numbers between 0 and 10 and the other class should print even numbers between 0 and 10. Make use of ``sleep ()``. :x:
