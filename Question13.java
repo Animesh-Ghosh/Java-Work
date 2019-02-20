@@ -3,7 +3,7 @@ import java.util.Scanner;
 // program to  print month name for corresponding input month number
 
 class Question13 {
-	public static void main (String args[]) {
+	public static void main (String[] args){
 		Scanner input = new Scanner (System.in);
 		int month;
 		System.out.print ("Enter number: ");
