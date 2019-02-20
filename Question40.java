@@ -1,7 +1,7 @@
 // program to demonstrate concept of wrapper class
 
 class Question40 {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		// variables of primitive data type 
 		byte test_byte = 2;
 		int test_int = 34;

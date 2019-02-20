@@ -5,7 +5,7 @@ import static java.lang.Math.pow;
 // program to compute volume of cone
 
 class Question2 {
-	public static void main (String args[]) {
+	public static void main (String[] args) {
 		double radius, height, volume;
 		Scanner input = new Scanner (System.in);
 		System.out.print ("Enter radius of cone: ");

@@ -5,7 +5,7 @@ import static java.lang.Math.pow;
 // program to compute volume of a sphere
 
 class Question3 {
-	public static void main (String args[]) {
+	public static void main (String[] args) {
 		float pi, radius, volume;
 		Scanner input = new Scanner (System.in);
 		System.out.print ("Enter radius: ");

@@ -19,7 +19,7 @@ class Student {
 }  
 
 public class Question27 { 
-   public static void main (String args[]) {  
+   public static void main (String[] args) {  
       Scanner input = new Scanner (System.in);
       Student s1 = new Student (10, "Vihan");  
       Student s2 = new Student (11, "Niharika");  

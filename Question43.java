@@ -1,7 +1,7 @@
 // program to demonstrate rethrowing an exception
 
 class Question43 {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		int x = 10, y = 0, z;
 	 	try {
 	 		try {

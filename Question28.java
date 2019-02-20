@@ -23,7 +23,7 @@ class Rectangle {
 }
 
 public class Question28 {
-	public static void main (String args[]) {
+	public static void main (String[] args) {
         float xpos, ypos, width, height;
         Scanner input = new Scanner (System.in);
         System.out.println ("Rectangle1: ");

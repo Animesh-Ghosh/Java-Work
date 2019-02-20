@@ -3,7 +3,7 @@ import java.util.Scanner;
 // program to print input number of terms of Fibonacci series
 
 class Question19 {
-	public static void main (String args[]) {
+	public static void main (String[] args) {
 		Scanner input = new Scanner (System.in);
 		int terms;
 		System.out.print ("Enter number of terms: ");

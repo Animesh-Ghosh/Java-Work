@@ -25,7 +25,7 @@ class Rectangle {
 }
 
 class Question24 {
-	public static void main (String args[]) {
+	public static void main (String[] args) {
 		Rectangle rect = new Rectangle ();
 		rect.Input ();
 		rect.Output ();

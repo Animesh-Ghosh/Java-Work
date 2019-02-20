@@ -28,7 +28,7 @@ class SavingsAccount extends Exception { // inheriting Exception class
 }
 
 class Question45 {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		Scanner input = new Scanner (System.in);
 		double value;
 		char ans = 'Y';

@@ -4,7 +4,7 @@ import java.util.Scanner;
 	and to find the largest and smallest marks entered */
 
 class Question20 {
-	public static void main (String args[]) {
+	public static void main (String[] args) {
 		Scanner input = new Scanner (System.in);
 		int n;
 		float[] marks;

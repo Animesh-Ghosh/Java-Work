@@ -3,7 +3,7 @@ import static java.lang.Math.pow;
 // program to print a given pattern
 
 class Question9 {
-	public static void main (String args[]) {
+	public static void main (String[] args) {
 		int p;
 		System.out.println ("Pattern: ");
 		for (int i = 1; i <= 10; i++) {

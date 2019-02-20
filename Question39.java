@@ -1,7 +1,7 @@
 // program to demonstrate nested try-catch block
 
 class Question39 {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
 		int[] arr = {1, 2, 3, 4, 5};
 		String num = "abc";
 		int n;

@@ -6,7 +6,7 @@ import static java.lang.Math.PI;
 // program to compute the volume and total surface area of cone
 
 class Question6 {
-	public static void main (String args[]) {
+	public static void main (String[] args) {
 		float radius, height, slant_height, volume, tsa;
 		Scanner inp = new Scanner (System.in);
 		System.out.print ("Enter radius: ");
