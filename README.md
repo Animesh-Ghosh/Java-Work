@@ -62,10 +62,10 @@ Java lab work. Listed below are the questions and their status (complete :white_
 46. Write a program to demonstrate a single-threaded process. :white_check_mark:
 47. Write a program to demonstrate creation of a single child thread. :white_check_mark:
 48. Write a program to demonstrate creation of multiple child threads. :white_check_mark:
-49. Write a program to demonstrate use of ``getId ()`` function. :x:
-50. Write a program creating 2 threads using Runnable interface. Print your name in ``run ()`` method of first class and "Hello Java" in ``run ()`` method of second thread. :x:
-51. Write a program to demonstrate use of ``super ()`` to give appropriate name to a thread. :x:
-52. Write a program to demonstrate use of ``isAlive ()`` method. :x:
+49. Write a program to demonstrate use of ``getId ()`` function. :white_check_mark:
+50. Write a program creating 2 threads using Runnable interface. Print your name in ``run ()`` method of first class and "Hello Java" in ``run ()`` method of second thread. :white_check_mark:
+51. Write a program to demonstrate use of ``super ()`` to give appropriate name to a thread. :white_check_mark:
+52. Write a program to demonstrate use of ``isAlive ()`` method. :white_check_mark:
 53. Write a program to demonstrate use of ``isAlive (n)`` method. :x:
 54. Write a program to demonstrate use of ``join ()`` method. :x:
 55. Write a program to demonstrate use of ``setPriority ()`` method to set priority of a thread to 1, 10 and normal. :x:
