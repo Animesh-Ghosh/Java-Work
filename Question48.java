@@ -1,3 +1,5 @@
+//  program to demonstrate creation of multiple child threads.
+
 class A extends Thread {
 	public void run () {
 		try {

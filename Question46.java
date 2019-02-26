@@ -1,4 +1,6 @@
-import java.lang.Thread;
+ import java.lang.Thread;
+ //  program to demonstrate a single-threaded process
+
 class Question46
 {
 	public static void main(String[] args) 
