@@ -19,5 +19,5 @@ public class Question52 extends Thread {
 		t2.start();
 		System.out.println(t1.isAlive(2000));
 		System.out.println(t2.isAlive());
-			}
+	}
 }
