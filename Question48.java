@@ -3,12 +3,12 @@
 class A extends Thread {
 	public void run () {
 		try {
-			for(int i=1;i<=5;i++) {
+			for(int i = 1; i <= 5; i++) {
 				System.out.println (5 * i);
 				Thread.sleep(500);
 			}
 		}
-		catch(InterruptedException e) {
+		catch (InterruptedException e) {
 			System.out.println ("Caught!");
 		}
 	}
@@ -24,7 +24,7 @@ class B extends Thread {
 
 class C extends Thread {
 	public void run () {
-		for(int k=1;k<=5;k++) {
+		for(int k = 1; k <= 5; k++) {
 			System.out.println ("k = " + k);
 		}
 	}
