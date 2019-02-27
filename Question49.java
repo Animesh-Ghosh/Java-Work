@@ -3,16 +3,16 @@
 public class Question49 implements Runnable {
 	Thread t;
 	Question49 () {
-		t = new Thread (this, "Admin Thread");
+		t = new Thread (this, "New Thread");
 		t.setPriority (1);
 		System.out.println ("Thread  = " + t);
-                t.start();
+                t.start ();
         }
         public void run () {
                 System.out.println ("Name = " + t.getName ());
-                System.out.print ("Id = " + t.getId ());
+                System.out.println ("Id = " + t.getId ());
         }
-        public static void main(String[] args) {
+        public static void main (String[] args) {
                 new Question49 ();
         }
 }
