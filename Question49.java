@@ -6,7 +6,7 @@ public class Question49 implements Runnable {
 		t = new Thread (this, "New Thread");
 		t.setPriority (1);
 		System.out.println ("Thread  = " + t);
-                t.start ();
+		t.start ();
         }
         public void run () {
                 System.out.println ("Name = " + t.getName ());
