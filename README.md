@@ -79,5 +79,5 @@ Java lab work. Listed below are the questions and their status (complete :white_
 63. Write a program to make use of BufferedStream to read lines from the keyboard until 'STOP' is typed. :x:
 64. Write a program to create an Applet and use <param> tag. :x:
 65. Write a program to create an Applet and use ``setBackground ()`` and ``setForeground ()``. :x:
-66. Write a program to create an Applet and use ``setColor ()``, ``drawString ()``, ``drawLine ()``, ``drawRect ()`` etc. :x:
-67. Write a program to create an Applet to calculate the sum of two numbers. :x:
+66. Write a program to create an Applet and use ``setColor ()``, ``drawString ()``, ``drawLine ()``, ``drawRect ()`` etc. :white_check_mark:
+67. Write a program to create an Applet to calculate the sum of two numbers. :white_check_mark:
