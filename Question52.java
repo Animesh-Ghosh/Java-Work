@@ -1,22 +1,37 @@
 // program to demonstrate use of isAlive () method
 
-public class Question52 extends Thread {
-	public void run () {
-		System.out.println ("Java");
-		try {
-			Thread.sleep(1000);
-		}
-		catch(InterruptedException ie ) {
-			System.out.println ("Caught!");
-		}
-		System.out.println ("Java race");
+class Count extends Thread {
+	Count () {
+		super ("My thread");
+		System.out.println (this);
+		start ();
 	}
+	public void run () {
+		try {
+			for (int i = 0; i < 10; i++) {
+				System.out.println (i);
+				Thread.sleep (1000);
+			}
+		}
+		catch (InterruptedException ie) {
+			System.out.println ("Thread interrupted!");
+		}
+		System.out.println ("My thread run() is over!");
+	}
+}
+
+public class Question52 {
 	public static void main (String[] args) {
-		Question52 t1 = new Question52 ();
-		Question52 t2 = new Question52 ();
-		t1.start ();
-		t2.start ();
-		System.out.println (t1.isAlive ());
-		System.out.println (t2.isAlive ());
+		Count obj = new Count ();
+		try {
+			while (obj.isAlive ()) {
+				System.out.println ("Main thread alive till child thread is alive.");
+				Thread.sleep (1500);
+			}
+		}
+		catch (InterruptedException ie) {
+			System.out.println ("Main thread Interrupted!.");
+		}
+		System.out.println ("Main thread run() is over.");
 	}
 }

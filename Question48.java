@@ -9,7 +9,7 @@ class A extends Thread {
 			}
 		}
 		catch (InterruptedException e) {
-			System.out.println ("Caught!");
+			System.out.println ("Thread interrupted!");
 		}
 	}
 }

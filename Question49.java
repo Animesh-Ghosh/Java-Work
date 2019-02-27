@@ -1,18 +1,19 @@
 // program to demonstrate use of getId () function
 
-public class Question49 implements Runnable {
-	Thread t;
-	Question49 () {
-		t = new Thread (this, "New Thread");
-		t.setPriority (1);
-		System.out.println ("Thread  = " + t);
-		t.start ();
-        }
+class Demo extends Thread {
         public void run () {
-                System.out.println ("Name = " + t.getName ());
-                System.out.println ("Id = " + t.getId ());
+                System.out.println ("Name is " + this.getName () + ".");
+                System.out.println ("Thread ID: " + this.currentThread ().getId ());
+                for (int i = 3; i > 0; i--) 
+                        System.out.println (i);
         }
-        public static void main (String[] args) {
-                new Question49 ();
+}
+
+public class Question49 {
+        public static void main(String[] args) {
+                for (int i = 0; i < 3; i++) {
+                        Demo obj = new Demo ();
+                        obj.start ();
+                }
         }
 }
