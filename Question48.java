@@ -5,7 +5,7 @@ class A extends Thread {
 		try {
 			for(int i = 1; i <= 5; i++) {
 				System.out.println (5 * i);
-				Thread.sleep(500);
+				Thread.sleep (500);
 			}
 		}
 		catch (InterruptedException e) {
@@ -31,12 +31,12 @@ class C extends Thread {
 }
 
 class Question48 {
-	public static void main(String[] args) {
-	 	A obj1 = new A();
-	 	B obj2 = new B();
-	 	C obj3 = new C();
-	 	obj1.start();
-	 	obj2.start();
-	 	obj3.start();	
+	public static void main (String[] args) {
+	 	A obj1 = new A ();
+	 	B obj2 = new B ();
+	 	C obj3 = new C ();
+	 	obj1.start ();
+	 	obj2.start ();
+	 	obj3.start ();	
 	}
 }
