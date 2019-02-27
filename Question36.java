@@ -4,9 +4,9 @@ import java.io.*;
 
 class Question36 {
 	public static void main(String[] args) {
-		FileInputStream fin;
+		FileInputStream fin = null;
 		try {
-			fin = new FileInputStream ("Files/Test1.txt");
+			fin = new FileInputStream ("File/Test1.txt");
 		}
 		catch (FileNotFoundException fnfe) {
 			System.out.println ("File not Found!\n" + fnfe);
