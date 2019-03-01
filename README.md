@@ -68,7 +68,7 @@ Java lab work. Listed below are the questions and their status (complete :white_
 52. Write a program to demonstrate use of ``isAlive ()`` method. :white_check_mark:
 53. Write a program to demonstrate use of ``isAlive (n)`` method. :x:
 54. Write a program to demonstrate use of ``join ()`` method. :white_check_mark:
-55. Write a program to demonstrate use of ``setPriority ()`` method to set priority of a thread to 1, 10 and normal. :x:
+55. Write a program to demonstrate use of ``setPriority ()`` method to set priority of a thread to 1, 10 and normal. :white_check_mark:
 56. Write a program to demonstrate making a thread as Daemon. :x:
 57. Write a program to demonstrate use of synchronization. :x:
 58. Write a program to use Byte stream class to read form a text file and display the content on the output screen. :x:
