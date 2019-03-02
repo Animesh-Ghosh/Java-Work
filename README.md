@@ -71,12 +71,12 @@ Java lab work. Listed below are the questions and their status (complete :white_
 55. Write a program to demonstrate use of ``setPriority ()`` method to set priority of a thread to 1, 10 and normal. :white_check_mark:
 56. Write a program to demonstrate making a thread as Daemon. :x:
 57. Write a program to demonstrate use of synchronization. :x:
-58. Write a program to use Byte stream class to read form a text file and display the content on the output screen. :x:
-59. Write a program to use Byte stream class to read form a text file and copy the content to another text file. :x:
-60. Write a program to use Character stream class to read form a text file and display the content on the output screen. :x:
-61. Write a program to use Character stream class to read form a text file and copy the content to another text file. :x:
-62. Write a program to make use of BufferedReader to read characters from the keyboard until 'q' is pressed. :x:
-63. Write a program to make use of BufferedStream to read lines from the keyboard until 'STOP' is typed. :x:
+58. Write a program to use Byte stream class to read form a text file and display the content on the output screen. :white_check_mark:
+59. Write a program to use Byte stream class to read from a text file and copy the content to another text file. :white_check_mark:
+60. Write a program to use Character stream class to read from a text file and display the content on the output screen. :white_check_mark:
+61. Write a program to use Character stream class to read from a text file and copy the content to another text file. :white_check_mark:
+62. Write a program to make use of BufferedReader to read characters from the keyboard until 'q' is pressed. :white_check_mark:
+63. Write a program to make use of BufferedReader to read lines from the keyboard until 'STOP' is typed. :white_check_mark:
 64. Write a program to create an Applet and use <param> tag. :x:
 65. Write a program to create an Applet and use ``setBackground ()`` and ``setForeground ()``. :x:
 66. Write a program to create an Applet and use ``setColor ()``, ``drawString ()``, ``drawLine ()``, ``drawRect ()`` etc. :white_check_mark:
