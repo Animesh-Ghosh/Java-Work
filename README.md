@@ -77,7 +77,7 @@ Java lab work. Listed below are the questions and their status (complete :white_
 61. Write a program to use Character stream class to read from a text file and copy the content to another text file. :white_check_mark:
 62. Write a program to make use of BufferedReader to read characters from the keyboard until 'q' is pressed. :white_check_mark:
 63. Write a program to make use of BufferedReader to read lines from the keyboard until 'STOP' is typed. :white_check_mark:
-64. Write a program to create an Applet and use <param> tag. :x:
+64. Write a program to create an Applet and use "<param>" tag. :x:
 65. Write a program to create an Applet and use ``setBackground ()`` and ``setForeground ()``. :x:
 66. Write a program to create an Applet and use ``setColor ()``, ``drawString ()``, ``drawLine ()``, ``drawRect ()`` etc. :white_check_mark:
 67. Write a program to create an Applet to calculate the sum of two numbers. :white_check_mark:
