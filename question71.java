@@ -2,50 +2,35 @@ import java.awt.*;
 import java.awt.event.*;
 import java.applet.*;
 
-//program to demonstrate adapter class for mouse events
+// program to demonstrate adapter class for mouse events
 
-/*
- <applet code="AdapterDemo" width=350 height=100>
- </applet>
- */
-public class AdapterDemo extends Applet{
- String msg="";
- int mouseX=0;
- int mouseY=0;
- 
-public void init(){ 
-  addMouseListener(new MouseDemo(this));
-}
+/* <applet code="Question71" width=300 height=100>
+	</applet>
+*/
 
-public void paint (Graphics g) {
-  g.drawString (msg, mouseX, mouseY);
+public class Question71 extends Applet {
+ 	public void init () { 
+  		addMouseListener (new MyMouseAdapter (this));
+  		addMouseMotionListener (new MyMouseMotionAdapter (this));
+	}
  }
 
-class MouseDemo extends MouseAdapter{
-AdapterDemo adapter_demo;
-public MouseDemo(AdapterDemo adapter_demo)
-{this.adapter_demo=adapter_demo;
+class MyMouseAdapter extends MouseAdapter {
+	Question71 adapterDemo;
+	public MyMouseAdapter (Question71 adapterDemo) {
+		this.adapterDemo = adapterDemo;
+	}
+	public void mouseClicked (MouseEvent me) {
+		adapterDemo.showStatus ("Mouse Clicked!");
+	}
 }
 
-public void mouseClicked(MouseEvent me)
-{msg="Mouse Clicked";
-mouseX=me.getX();
-mouseY=me.getY();
-repaint();
+class MyMouseMotionAdapter extends MouseMotionAdapter {
+	Question71 adapterDemo;
+	public MyMouseMotionAdapter (Question71 adapterDemo) {
+		this.adapterDemo = adapterDemo;
+	}
+	public void mouseDragged (MouseEvent me) {
+		adapterDemo.showStatus ("Mouse Dragged!");
+	}
 }
-
-public void mousePressed(MouseEvent me) {  
-  msg="Mouse Pressed";
-mouseX=me.getX();
-mouseY=me.getY();
-repaint();
-}  
-
-public void mouseReleased(MouseEvent me) {  
-msg="Mouse Released";
-mouseX=me.getX();
-mouseY=me.getY();
-repaint();
-}  
-   } 
-     }
