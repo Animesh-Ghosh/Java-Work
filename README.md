@@ -77,7 +77,13 @@ Java lab work. Listed below are the questions and their status (complete :white_
 61. Write a program to use Character stream class to read from a text file and copy the content to another text file. :white_check_mark:
 62. Write a program to make use of BufferedReader to read characters from the keyboard until 'q' is pressed. :white_check_mark:
 63. Write a program to make use of BufferedReader to read lines from the keyboard until 'STOP' is typed. :white_check_mark:
-64. Write a program to create an Applet and use ``param`` tag. :white_check_mark:
-65. Write a program to create an Applet and use ``setBackground ()`` and ``setForeground ()``. :white_check_mark:
-66. Write a program to create an Applet and use ``setColor ()``, ``drawString ()``, ``drawLine ()``, ``drawRect ()`` etc. :white_check_mark:
-67. Write a program to create an Applet to calculate the sum of two numbers. :white_check_mark:
+64. Write a program to create an applet and use ``param`` tag. :white_check_mark:
+65. Write a program to create an applet and use ``setBackground ()`` and ``setForeground ()``. :white_check_mark:
+66. Write a program to create an applet and use ``setColor ()``, ``drawString ()``, ``drawLine ()``, ``drawRect ()`` etc. :white_check_mark:
+67. Write a program to create an applet to calculate the sum of two numbers. :white_check_mark:
+68. Write a program to create an applet to handle mouse events. :white_check_mark:
+69. Write a program to create an applet to handle keyboard events (characters to be displayed). :white_check_mark:
+70. Write a program to create an applet to handle keyboard events (message for F1, F2, F3, F4, F5 to be displayed). :white_check_mark:
+71. Write a program to demonstrate adapter class for mouse events. :x:
+72. Write a program to demonstrate inner class. :x:
+73. Write a program to demonstrate anonymouse inner class. :x:
