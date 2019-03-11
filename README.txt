@@ -77,3 +77,13 @@ Questions:
 65. Write a program to create an Applet and use setBackground () and setForeground (). 
 66. Write a program to create an Applet and use setColor (), drawString (), drawLine (), drawRect () etc. 
 67. Write a program to create an Applet to calculate the sum of two numbers. 
+68. Write a program to create an applet to handle mouse events.
+69. Write a program to create an applet to handle keyboard events (characters to be displayed).
+70. Write a program to create an applet to handle keyboard events (message for F1, F2, F3, F4, F5 to be displayed).
+71. Write a program to demonstrate adapter class for mouse events.
+72. Write a program to demonstrate adapter class as an inner class.
+73. Write a program to demonstrate adapter class as an anonymous inner class.
+74. Write a program to demonstrate working of Label control.
+75. Write a program to demonstrate working of Button control.
+76. Write a program to demonstrate working of CheckBox control.
+76. Write a program to demonstrate working of RadioButton control.
