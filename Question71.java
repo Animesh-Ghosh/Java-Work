@@ -23,6 +23,9 @@ class MyMouseAdapter extends MouseAdapter {
 	public void mouseClicked (MouseEvent me) {
 		adapterDemo.showStatus ("Mouse Clicked!");
 	}
+	public void mousePressed (MouseEvent me) {
+		adapterDemo.showStatus ("Mouse Pressed!");
+	}
 }
 
 class MyMouseMotionAdapter extends MouseMotionAdapter {
