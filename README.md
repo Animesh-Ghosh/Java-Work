@@ -85,5 +85,9 @@ Java lab work. Listed below are the questions and their status (complete :white_
 69. Write a program to create an applet to handle keyboard events (characters to be displayed). :white_check_mark:
 70. Write a program to create an applet to handle keyboard events (message for F1, F2, F3, F4, F5 to be displayed). :white_check_mark:
 71. Write a program to demonstrate adapter class for mouse events. :white_check_mark:
-72. Write a program to demonstrate inner class. :x:
-73. Write a program to demonstrate anonymouse inner class. :x:
+72. Write a program to demonstrate adapter class as an inner class. :white_check_mark:
+73. Write a program to demonstrate adapter class as an anonymous inner class. :white_check_mark:
+74. Write a program to demonstrate working of Label. :x:
+75. Write a program to demonstrate working of Button. :x:
+76. Write a program to demonstrate working of CheckBox. :x:
+76. Write a program to demonstrate working of RadioButton. :x:
