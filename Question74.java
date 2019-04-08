@@ -1,6 +1,6 @@
 import java.awt.*;
-import java.applet.*;
 import java.awt.event.*;
+import java.applet.*;
 
 // program to demonstrate working of Label control
 
