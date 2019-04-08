@@ -4,7 +4,7 @@ import java.applet.*;
 
 // program to demonstrate adapter class as an anonymous inner class
 
-/* <applet code="Question73.java" height=150 width=300>
+/* <applet code="Question73" height="150" width="300">
 	</applet>
 */
 

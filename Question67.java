@@ -3,7 +3,7 @@ import java.applet.*;
 
 // program to create an Applet to calculate the sum of two numbers
 
-/* <applet code="Question67" width=300 height=80> 
+/* <applet code="Question67" height="80" width="300"> 
 	</applet>
 */
 

@@ -4,7 +4,7 @@ import java.applet.*;
 
 // program to demonstrate working of CheckBox control
 
-/* <applet code="Question76" height=200 width=300>
+/* <applet code="Question76" height="200" width="300">
 	</applet>
 */
 

@@ -4,7 +4,7 @@ import java.applet.*;
 
 // program to demonstrate working of Label control
 
-/* <applet code="Question74" height=100 width=200>
+/* <applet code="Question74" height="100" width="200">
 	</applet>
 */
 

@@ -3,7 +3,7 @@ import java.applet.*;
 
 // program to create an Applet and use param tag
 
-/* <applet code="Question64" width=300 height=50>
+/* <applet code="Question64" height="50" width="300">
 <param name="yourname" value="muh name jeff!">
 </applet> */
 

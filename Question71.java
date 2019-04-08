@@ -4,7 +4,7 @@ import java.applet.*;
 
 // program to demonstrate adapter class for mouse events
 
-/* <applet code="Question71" width=300 height=100>
+/* <applet code="Question71" width="300" height="100">
 	</applet>
 */
 

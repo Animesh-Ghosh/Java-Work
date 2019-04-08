@@ -5,7 +5,7 @@ import java.awt.event.*;
 /* program to create an applet to handle keyboard events 
 	(message for F1, F2, F3, F4, F5 to be displayed) */
 
-/* <applet code="Question70" height=100 width=300>
+/* <applet code="Question70" height="100" width="300">
 	</applet>
 */
 

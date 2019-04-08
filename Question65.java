@@ -3,7 +3,7 @@ import java.applet.*;
 
 //  program to create an Applet and use setBackground () and setForeground ()
 
-/* <applet code="Question65" width=300 height=50>
+/* <applet code="Question65" height="50" width="300">
 </applet> */
 
 public class Question65 extends Applet {

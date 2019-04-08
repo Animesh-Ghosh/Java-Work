@@ -4,7 +4,7 @@ import java.applet.*;
 /* program to create an Applet and use setColor (), drawString (), 
 	drawLine (), drawRect () etc */
 
-/* <applet code="Question66" width=300 height=100> 
+/* <applet code="Question66" height="100" width="300"> 
 	</applet>
 */
 
